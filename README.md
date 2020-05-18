@@ -12,7 +12,7 @@ You can download the dog images from here: https://s3-us-west-1.amazonaws.com/ud
 
 You can download the images of people from here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
-In this project, we use OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images. OpenCV provides many pre-trained face detectors, stored as XML files on github. You will need to download one of these detectors (i.e. haarcascade_frontalface_alt.xlm) and put it in a folder (folder's name --> haarcascades).
+In this project, we use OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images. OpenCV provides many pre-trained face detectors, stored as XML files on github (https://github.com/opencv/opencv/tree/master/data/haarcascades). You will need to download one of these detectors (i.e. haarcascade_frontalface_alt.xlm) and put it in a folder (folder's name --> haarcascades).
 
 At the end of the document, some tests are carried out with your own photos. You should have a folder called "final_test_images" with the images you want to test.
 
